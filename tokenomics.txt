@@ -1,0 +1,27 @@
+===> Sunshield Tokenomics
+
+Can claim once every 4 hours (auto claim)
+
+Tax: (19% tax)
+—12% to Sunshield BNB pool
+—4% to Liquidity
+—2% to dev marketing wallet
+—1% to Moonshield BNB pool
+
+—Total sell fee = 23% (extra 4%)
+- [ ] (2% buy back + 2% Moonshield bnb reward pool)
+
+—1 Quadrillion Supply
+
+2000 BNB pool cap. When full, the reserve bnb pool starts to fill up.
+
+Claim Tax:
+If the claim is
+.2 BNB to .34 BNB, the tax is 10%
+.35 BNB to .49 BNB, the tax is 15%
+.5 BNB or greater, the tax is 20%
+
+The tax goes directly to the Sunshield BNB pool.
+
+---No max buy
+—Max sell: 1 Trillion
